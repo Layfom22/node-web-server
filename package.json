@@ -3,6 +3,8 @@
   "version": "0.0.1",
   "description": "Proyecto de web Server para curso de NODE JS",
   "main": "src/app.js",
+  "type":"module",
+
   "scripts": {
     "dev": "nodemon src/app.js"
   },
